@@ -1,5 +1,7 @@
+package objectbasic;
+
 public class Crib {
-   //States
+    //States
     /*
     - material
     - color
