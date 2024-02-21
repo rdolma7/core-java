@@ -10,7 +10,7 @@ public class Stroller {
     - has assembly details
     - item number
     - has warranty
-    - has industry certification
+    - is compliant
     - weight limit
     - weight
     - has storage
@@ -24,8 +24,35 @@ public class Stroller {
     - product configuration (single, double)
     - tire dimension
     - tire wheel diameter
-    - dimensions (collapsed)
-    - dimensions (overall)
+    - collapsed dimension
+    - overall dimension
     - has storage bag
+ + brand - String
+ + price - float
+ + color - String
+ + type - String
+ + has assembly details - boolean
+ + item number - long
+ + has warranty  - boolean
+ + is compliant - boolean
+ + weight limit -  float
+ + weight - float
+ + has storage - boolean
+ + seat adjustments - double
+ + has accessories - boolean
+ + material - String
+ + fabric - String
+ + fold - String
+ + suggested age - int
+ + can accommodate car seat - boolean
+ + product configuration - String
+ + tire dimension - long
+ + tire wheel diameter - long
+ + collapsed dimension - long
+ + overall dimension - long
+ + has storage bag - boolean
+
      */
+    //Constructors
+
 }
