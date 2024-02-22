@@ -145,7 +145,7 @@ public class HimalayanTimesApplication {
 
         Category health = new Category();
         health.categoryId = 15;
-        health.categoryName = "";
+        health.categoryName = "Health";
         health.order = 15;
         health.isDeleted = false;
         health.isDisabled = false;
