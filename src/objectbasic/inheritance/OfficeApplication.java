@@ -2,6 +2,7 @@ package objectbasic.inheritance;
 
 
 import java.time.LocalDate;
+import java.util.List;
 
 public class OfficeApplication {
     public static void main(String[] args) {
@@ -26,6 +27,7 @@ public class OfficeApplication {
     manager.setJoiningDate(LocalDate.now());
     manager.setDept("Technology");
     manager.setBonus(5000);
+    manager.setTree(List.of());
 
     Director director = new Director();
     director.setName("John");

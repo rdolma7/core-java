@@ -14,5 +14,5 @@ public class Manager extends Person{
     public double getBonus(){return bonus;}
     public void setBonus(double bonus){this.bonus=bonus;}
     public List<Employee> getTree(){return tree;}
-    public void setTree(List<Employee> tree){this.tree=tree;}
+    public void setTree(List<Employee>tree){this.tree=tree;}
 }
